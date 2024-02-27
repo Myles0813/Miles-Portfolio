@@ -50,3 +50,4 @@ My studies in Information Technology have led me to develop a passion for cybers
 ## Projects
 - Azure Sentinel MAP with Live Attacks
 - SOC Automation Project
+- Vulnerability Scanning and Vulnerability Remediation Lab
