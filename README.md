@@ -13,7 +13,7 @@ My studies in Information Technology have led me to develop a passion for cybers
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Vulnerability Scanning and Remediation          | <a href="https://google.com">Vulnerability Scan and Remediation Lab</a>|
+| Vulnerability Scanning and Remediation          | <a href="https://github.com/Myles0813/Vulnerability-Scan-and-Remediation/blob/main/README.md">Vulnerability Scan and Remediation Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
