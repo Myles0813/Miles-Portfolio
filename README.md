@@ -4,9 +4,10 @@
 
 I am an Information Technology Student with a profound interest in Cybersecurity and a dedication to solving complex problems.
 
-##
-
 My studies in Information Technology have led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+#
+## Projects
+- Vulnerability Scanning and Vulnerability Remediation Lab
 
 ## Skills
 
@@ -46,5 +47,4 @@ My studies in Information Technology have led me to develop a passion for cybers
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 </div>
 
-## Projects
-- Vulnerability Scanning and Vulnerability Remediation Lab
+
