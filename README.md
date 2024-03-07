@@ -20,7 +20,7 @@ My studies in Information Technology have led me to develop a passion for cybers
 
 
 
-## Tools
+## Tool Proficiencies
 
 
 ### Network
