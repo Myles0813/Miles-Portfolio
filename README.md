@@ -6,17 +6,17 @@ I am an Information Technology Student with a profound interest in Cybersecurity
 
 My studies in Information Technology have led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 #
-## Projects
-- Vulnerability Scan and Remediation Lab With Nessus
-- Active Directory Lab
-
 ## Skills
+- 
+- 
+
+## Projects & Labs
 
 
-| Skills                                         | Associated Project         |
+| Projects                                        | Link to Project         |
 |-----------------------------------------------|----------------------------|
-| Vulnerability Scan and Remediation          | <a href="https://github.com/Myles0813/Vulnerability-Scan-and-Remediation/blob/main/README.md">Vulnerability Scan and Remediation Lab</a>|
-| Active Directory | <a href="https://github.com/Myles0813/Active-Directory-Lab">Active Directory Lab</a>|
+| Vulnerability Scan and Remediation With Nessus        | <a href="https://github.com/Myles0813/Vulnerability-Scan-and-Remediation/blob/main/README.md">Vulnerability Scan and Remediation Lab</a>|
+| Active Directory Lab | <a href="https://github.com/Myles0813/Active-Directory-Lab">Active Directory Lab</a>|
 
 
 
