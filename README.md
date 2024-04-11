@@ -15,8 +15,14 @@ My studies in Information Technology have led me to develop a passion for cybers
 |-----------------------------------------------|----------------------------|
 | Vulnerability Scan and Remediation With Nessus        | <a href="https://github.com/Myles0813/Vulnerability-Scan-and-Remediation/blob/main/README.md">Vulnerability Scan and Remediation Lab</a>|
 | Active Directory Lab | <a href="https://github.com/Myles0813/Active-Directory-Lab">Active Directory Lab</a>|
+#
 
+## Certifications
 
+<div>
+<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" /> 
+<img src="https://img.shields.io/badge/-Google%20IT%20Support%20Professional-blue?&style=for-the-badge&logo=google&logoColor=white" />
+</div>
 
 
 
@@ -37,11 +43,6 @@ My studies in Information Technology have led me to develop a passion for cybers
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
 </div>
 
-## Certifications
 
-<div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" /> 
-<img src="https://img.shields.io/badge/-Google%20IT%20Support%20Professional-blue?&style=for-the-badge&logo=google&logoColor=white" />
-</div>
 
 
