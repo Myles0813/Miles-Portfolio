@@ -6,22 +6,21 @@ I am an Information Technology Student with a profound interest in Cybersecurity
 
 My studies in Information Technology have led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 #
+<h2>👨‍💻 Cybersecurity Projects:</h2>
+
+- <b>Detection & Monitoring Active Directory Lab</b>
+  - [Detection & Monitoring Lab](https://github.com/Myles0813/Active-Directory-Lab)
+- <b>Vulnerability Scan and Remediation with Writen Report</b>
+  - [Vulnerability Scan Lab](https://github.com/Myles0813/Vulnerability-Scan-and-Remediation/blob/main/README.md) 
 
 
-## Projects & Labs
 
-
-| Projects                                        | Link to Project         |
-|-----------------------------------------------|----------------------------|
-| Vulnerability Scan and Remediation With Nessus        | <a href="https://github.com/Myles0813/Vulnerability-Scan-and-Remediation/blob/main/README.md">Vulnerability Scan and Remediation Lab</a>|
-| Active Directory Lab | <a href="https://github.com/Myles0813/Active-Directory-Lab">Active Directory Lab</a>|
 #
 
 ## Certifications
 
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" /> 
-<img src="https://img.shields.io/badge/-Google%20IT%20Support%20Professional-blue?&style=for-the-badge&logo=google&logoColor=white" />
 </div>
 
 
