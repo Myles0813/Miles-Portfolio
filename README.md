@@ -1,5 +1,5 @@
 # Hello, I'm Miles Maxie 
-<a href="www.linkedin.com/in/miles-maxie-84b313299"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/miles-maxie-84b313299/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
 
 I am an Information Technology Student with a profound interest in Cybersecurity and a dedication to solving complex problems.
